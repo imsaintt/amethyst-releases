@@ -1,6 +1,6 @@
 # Amethyst
 
-Auto-fishing macro for Fisch (Roblox), made by n07x.
+Auto-fishing macro for Fisch (Roblox), made by imsaintt.
 
 ## Install
 
